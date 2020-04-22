@@ -3,3 +3,5 @@ SDN
 Kubernets 
 Docker
 5G Fram work
+AWS
+GCP
